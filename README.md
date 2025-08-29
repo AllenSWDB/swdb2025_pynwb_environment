@@ -1,3 +1,3 @@
-# aind-capsule-template
+# SWDB 2025 PyNWB Capsule Template
 
-Basic structure of a capsule to be customized as needed.
+Python environment for using PyNWB to access datasets shared as part of SWDB 2025.
